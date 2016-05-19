@@ -1,3 +1,10 @@
+/composer.json
+/install.txt
+/license.txt
+/CHANGELOG_AUTO.md
+/changelog.md
+/build.xml
+/tests
 # Config and Htaccess Files
 /upload/.htaccess
 /upload/config.php
